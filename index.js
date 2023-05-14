@@ -10,7 +10,7 @@ var highScores = [
   },
 
   {
-    name: "Luffy",
+    name: "Ace",
     score: 3,
   },
   {
