@@ -18,7 +18,7 @@ var highScores = [
     score: 3,
   },
   {
-    name: "Sanji",
+    name: "Zozu",
     score: 4,
   },
 ];
