@@ -5,7 +5,7 @@ var score = 0;
 // High Scores :
 var highScores = [
   {
-    name: "Manthan",
+    name: "Edward",
     score: 5,
   },
 
@@ -14,11 +14,11 @@ var highScores = [
     score: 3,
   },
   {
-    name: "Zoro",
+    name: "Marco",
     score: 3,
   },
   {
-    name: "Sanji",
+    name: "Zozu",
     score: 4,
   },
 ];
